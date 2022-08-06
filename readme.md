@@ -1,4 +1,4 @@
-English version: (./readme_en.md)
+English version: [en](./readme_en.md)
 
 # 总结
 

@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}Quote{% endblock %}
+
+{% block main %}
+    <form action="/quote" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" name="symbol" placeholder="Symbol" type="text" required>
+        </div>
+        <button class="btn btn-primary" type="submit">Quote</button>
+    </form>
+    <br>
+    <p class='display-6' style="font-size:1rem">Don't know what symbol to quote? Try searching the company or try using: TSLA/AAPL/NFLX</p>
+{% endblock %}

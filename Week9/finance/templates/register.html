@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Register
+{% endblock %}
+
+{% block main %}
+<form action="/register" method="post" id="form1">
+    <div class="mb-3">
+        <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="username" placeholder="Username" type="text" required>
+    </div>
+    <div class="mb-3">
+        <input onkeyup="check()" class="form-control mx-auto w-auto" id="password" name="password" placeholder="Password" type="password" required>
+    </div>
+    <div class="mb-3">
+        <input onkeyup="check()" class="form-control mx-auto w-auto" id="confirmation" name="confirmation" placeholder="Confirm Password" type="password" required>
+        <label id="message" class="display-6"></label>
+    </div>
+    <button class="btn btn-primary" type="submit" id="submit">Register</button>
+    <script>
+        function check() {
+            if (document.getElementById("password").value ==
+            document.getElementById("confirmation").value)
+            {
+                document.getElementById('message').style.color = 'green';
+                document.getElementById('message').innerHTML = 'matching';
+                document.getElementById('submit').disabled = false;
+            }
+            else
+            {
+                document.getElementById('message').style.color = 'red';
+                document.getElementById('message').innerHTML = 'not matching';
+                document.getElementById('submit').disabled = true;
+            }
+        }
+    </script>
+</form>
+{% endblock %}

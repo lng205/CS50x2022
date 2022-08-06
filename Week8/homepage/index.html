@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="My resource station.">
+    <meta name="author" content="lng205">
+    <title>My collections</title>
+    <link href="./images/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="styles.css" rel="stylesheet">
+    <link href="w3.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <!-- Navigatin bar -->
+    <div class="w3-bar w3-card-4 bar">
+      <button class="tablink" onclick="openPage('Home', this)">Home</button>
+      <button class="tablink w3-hide-small" onclick="openPage('Books', this)">Books</button>
+      <button class="tablink w3-hide-small" onclick="openPage('movies', this)">Movies</button>
+      <button class="tablink w3-hide-small" onclick="openPage('Games', this)">Games</button>
+      <button class="tablink w3-right w3-hide-large w3-hide-medium"
+      onclick="MenuClick()">&#9776;</button>
+    </div>
+    <div id="ToggleBar" class="w3-bar bar w3-hide w3-hide-large w3-hide-medium">
+      <div class="w3-bar bar">
+        <button class="tablink" onclick="openPage('Books', this)">Books</button>
+      </div>
+      <div class="w3-bar bar">
+        <button class="tablink" onclick="openPage('movies', this)">Movies</button>
+      </div>
+      <div class="w3-bar bar">
+        <button class="tablink" onclick="openPage('Games', this)">Games</button>
+      </div>
+    </div>
+
+    <!-- Home page -->
+    <div class="tabcontent bd-masthead" style="display:block" id="Home">
+      <h1 style="font-size:calc(1.625rem + 4.5vw);font-weight:300;
+      line-height:1.2;text-align:center">Welcome To My First Webpage.</h1>
+    </div>
+
+    <!-- Book page -->
+    <div class="tabcontent" id="Books">
+      <div class="w3-content">
+
+        <div class="row-margin w3-row">
+          <div class="w3-third">
+            <img src="./images/FRONTCOVER-1.jpg" class="w3-image w3-border w3-padding center" alt="FRONTCOVER-1" style="max-height:300px">
+          </div>
+          <div class="w3-twothird w3-container w3-right">
+            <h2>To Kill a Mockingbird</h2>
+            <p>
+              To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and was instantly successful. In the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature, winning the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten.
+            </p>
+          </div>
+        </div>
+
+        <div class="row-margin w3-row">
+          <div class="w3-third">
+            <img src="./images/FRONTCOVER-2.jpg" class="w3-image w3-border w3-padding center" alt="FRONTCOVER-2" style="max-height:300px">
+          </div>
+          <div class="w3-twothird w3-container w3-right">
+            <h2>The Moon and Sixpence</h2>
+            <p>
+              The Moon and Sixpence is a novel by W. Somerset Maugham, first published on 15 April 1919. It is told in episodic form by a first-person narrator providing a series of glimpses into the mind and soul of the central character, Charles Strickland, a middle-aged English stockbroker, who abandons his wife and children abruptly to pursue his desire to become an artist. The story is, in part, based on the life of the painter Paul Gauguin.
+            </p>
+          </div>
+        </div>
+
+        <div class="row-margin w3-row">
+          <div class="w3-third">
+            <img src="./images/FRONTCOVER-3.jpg" class="w3-image w3-border w3-padding center" alt="FRONTCOVER-2" style="max-height:300px">
+          </div>
+          <div class="w3-twothird w3-container w3-right">
+            <h2>Animal Farm</h2>
+            <p>
+              Animal Farm is a beast fable, in form of satirical allegorical novella, by George Orwell, first published in England on 17 August 1945. It tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, the rebellion is betrayed, and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <div id="Movies">
+
+    </div>
+
+    <div id="Games">
+
+    </div>
+    <script src="myscript.js"></script>
+  </body>
+</html>

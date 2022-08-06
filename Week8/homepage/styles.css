@@ -1,0 +1,58 @@
+body{
+  height: 100%;
+  margin: 0;
+}
+
+:root {
+  --bs-body-bg-rgb:255,255,255;
+  --bd-violet-rgb: 6,160,2;
+  --bd-accent-rgb: 0,20,80;
+  --bd-pink-rgb: 200,0,13;
+  --bd-teal-rgb: 3,0,150;
+}
+
+.bd-masthead {
+  padding: 20rem 0;
+  background-image:
+  linear-gradient(180deg, rgba(var(--bs-body-bg-rgb), 0.01), rgba(var(--bs-body-bg-rgb), 1) 85%),
+  radial-gradient(ellipse at top left, rgba(var(--bd-teal-rgb), 0.5), transparent 50%),
+  radial-gradient(ellipse at top right, rgba(var(--bd-accent-rgb), 0.5), transparent 50%),
+  radial-gradient(ellipse at center right, rgba(var(--bd-violet-rgb), 0.5), transparent 50%),
+  radial-gradient(ellipse at center left, rgba(var(--bd-pink-rgb), 0.5), transparent 50%);
+}
+
+/* Style tab links */
+.bar {
+  background-color: #134ca1;
+}
+
+.tablink {
+  background-color: inherit;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding:14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #3375d7;
+}
+
+.tabcontent {
+  display:none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.row-margin {
+  padding:3rem 0;
+}

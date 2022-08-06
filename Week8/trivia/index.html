@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What's the number after 1?</h3>
+                <h4 id="r1"></h4>
+                <button id="b1">1</button>
+                <button id="b2">2</button>
+                <button id="b3">3</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                <h3>What's the smallest positive integer?</h3>
+                <h4 id="r2"></h4>
+                <input id="i1"></input>
+                <button id="b4">confirm</button>
+            </div>
+        </div>
+        <script>
+            // TODO: Add code to check answers to questions
+            r1 = document.querySelector('#r1');
+            b1 = document.querySelector('#b1');
+            b2 = document.querySelector('#b2');
+            b3 = document.querySelector('#b3');
+
+            b4 = document.querySelector('#b4');
+            r2 = document.querySelector('#r2');
+            i1 = document.querySelector('#i1');
+            b1.addEventListener('click', function()
+            {
+                b1.style = "background-color: #ff0000";
+                r1.innerHTML = "Incorrect.";
+            });
+            b2.addEventListener('click', function()
+            {
+                b2.style = "background-color: #00ff00";
+                r1.innerHTML = "Correct!";
+            });
+            b3.addEventListener('click', function()
+            {
+                b3.style = "background-color: #ff0000";
+                r1.innerHTML = "Incorrect.";
+            });
+            b4.addEventListener('click', function()
+            {
+                if (i1.value == "1")
+                {
+                    r2.innerHTML = "Correct!";
+                }
+                else
+                {
+                    r2.innerHTML = "Incorrect.";
+                }
+            });
+        </script>
+    </body>
+</html>

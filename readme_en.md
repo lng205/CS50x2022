@@ -1,3 +1,5 @@
+[Course station](https://cs50.harvard.edu/x/2022/)
+
 # Summary
 
 This is a course for CS beginners. I've completed several embedded projects with C before the course, also I've been learning python through half of [this blog](https://www.liaoxuefeng.com/wiki/1016959663602400).

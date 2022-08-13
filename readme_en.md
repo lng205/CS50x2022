@@ -8,6 +8,7 @@ Thinking as a review, the course surprised me. The C part greatly deepened my un
 
 The course took me three weeks in total. Apart from the relaxing time, it's about a hundred hours, which is neither short nor quite long, compared with my steam gaming hours. The feeling of study is pretty well.
 
+Choose [Nand2Tetris](https://github.com/lng205/Nand2Tetris) as my next course. With complete and open-sourced material, the course has been dubbed 'CS101'. The textbook had just been republished in 2021. The course only requires commanding a high-level language for the latter half, which CS50x is sufficient.
 
 # Snippets&Review
 

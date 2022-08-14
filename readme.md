@@ -18,21 +18,21 @@ Scratch项目是课程的起点，但是完全不看也不太影响后面的学�
 
 ## [Week1](./Week1)
 
-## [Week2](./Week2/readme.md)
+## [Week2](./Week2)
 
-## [Week3](./Week3/readme.md)
+## [Week3](./Week3)
 
-## [Week4](./Week4/readme.md)
+## [Week4](./Week4)
 
-## [Week5](./Week5/readme.md)
+## [Week5](./Week5)
 
-## [Week6](./Week6/readme.md)
+## [Week6](./Week6)
 
-## [Week7](./Week7/readme.md)
+## [Week7](./Week7)
 
-## [Week8](./Week8/readme.md)
+## [Week8](./Week8)
 
-## [Week9](./Week9/readme.md)
+## [Week9](./Week9)
 
 ## Week10
 

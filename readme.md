@@ -16,23 +16,23 @@ English version: [en](./readme_en.md)
 
 Scratch项目是课程的起点，但是完全不看也不太影响后面的学习，已有编程基础的同学可以和我一样选择跳过。
 
-## [Week1](./Week1)
+## [Week1](./Week1/readme.md)
 
-## [Week2](./Week2)
+## [Week2](./Week2/readme.md)
 
-## [Week3](./Week3)
+## [Week3](./Week3/readme.md)
 
-## [Week4](./Week4)
+## [Week4](./Week4/readme.md)
 
-## [Week5](./Week5)
+## [Week5](./Week5/readme.md)
 
-## [Week6](./Week6)
+## [Week6](./Week6/readme.md)
 
-## [Week7](./Week7)
+## [Week7](./Week7/readme.md)
 
-## [Week8](./Week8)
+## [Week8](./Week8/readme.md)
 
-## [Week9](./Week9)
+## [Week9](./Week9/readme.md)
 
 ## Week10
 

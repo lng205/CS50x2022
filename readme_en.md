@@ -14,6 +14,24 @@ Choose [Nand2Tetris](https://github.com/lng205/Nand2Tetris) as my next course. W
 
 Though scratch is the starting point of the course, skipping it won't affect further study much. Thus students with programming basics could skip this part.
 
+## [Week1](./Week1/readme_en.md)
+
+## [Week2](./Week2/readme_en.md)
+
+## [Week3](./Week3/readme_en.md)
+
+## [Week4](./Week4/readme_en.md)
+
+## [Week5](./Week5/readme_en.md)
+
+## [Week6](./Week6/readme_en.md)
+
+## [Week7](./Week7/readme_en.md)
+
+## [Week8](./Week8/readme_en.md)
+
+## [Week9](./Week9/readme_en.md)
+
 ## Week 10
 
 Plan to build a [personal resource station](https://github.com/lng205/Raspi-WebApp).

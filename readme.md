@@ -16,6 +16,8 @@ English version: [en](./readme_en.md)
 
 Scratch项目是课程的起点，但是完全不看也不太影响后面的学习，已有编程基础的同学可以和我一样选择跳过。
 
+## [Week1](./Week1/readme.md)
+
 ## Week10
 
 大作业计划做个[个人资源站](https://github.com/lng205/Raspi-WebApp)。

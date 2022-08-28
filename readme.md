@@ -14,7 +14,7 @@ English version: [en](./readme_en.md)
 
 ## Week0
 
-Scratch项目是课程的起点，但是完全不看也不太影响后面的学习，已有编程基础的同学可以和我一样选择跳过。
+Scratch项目是课程的起点，但是完全不看也不太影响后面的学习，已有编程基础的同学可以也选择跳过。
 
 ## [Week1](./Week1/readme.md)
 

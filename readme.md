@@ -14,7 +14,7 @@ English version: [en](./readme_en.md)
 
 ## Week0
 
-Scratch项目是课程的起点，但是完全不看也不太影响后面的学习，已有编程基础的同学可以也选择跳过。
+Scratch项目是课程的起点，但不看也不太影响后续学习，已有编程基础的同学可以也选择跳过。
 
 ## [Week1](./Week1/readme.md)
 
@@ -36,9 +36,10 @@ Scratch项目是课程的起点，但是完全不看也不太影响后面的学�
 
 ## Week10
 
-大作业计划做个[个人资源站](https://github.com/lng205/Raspi-WebApp)。
+大作业计划做个工具站。
 
-上完这门课已经变成了linux的样子，不想再去学Windows命令行操作，折腾了半天WSL和Docker感觉还是不太顺手。正好手里有个立项经费嫖的树莓派，已经将Week9的项目搬到了树莓派上面跑了起来，并且架到了校园网内。
+上完课已经变成了linux的样子，不想再去学Windows命令行，且折腾半天WSL和Docker还是不太顺手。正好手里有个树莓派，打算[开发一下](https://github.com/lng205/Raspi-WebApp)。
 
 ## Gradebook
+
 ![p1](./images/p1.png)

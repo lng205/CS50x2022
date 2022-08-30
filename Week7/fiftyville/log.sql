@@ -43,7 +43,7 @@ SELECT id, destination_airport_id
    AND day = 28 + 1
    ORDER BY hour ASC, minute ASC LIMIT 1;
 
--- Match the theif based on bank acount, license plate and passport number and phone call
+-- Match the theif based on bank acount, license plate, passport number and phone call
 /*+--------+-------+----------------+
 |   id   | name  |  phone_number  |
 +--------+-------+----------------+

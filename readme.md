@@ -38,7 +38,7 @@ Scratch项目是课程的起点，但不看也不太影响后续学习，已有�
 
 大作业计划做个工具站。
 
-上完课已经变成了linux的样子，不想再去学Windows命令行，且折腾半天WSL和Docker还是不太顺手。正好手里有个树莓派，打算[开发一下](https://github.com/lng205/Raspi-WebApp)。
+上完课已经变成了linux的样子，不想再去学Windows命令行，且折腾半天WSL和Docker还是不太顺手。正好手里有个树莓派，打算开发一下。
 
 ## Gradebook
 

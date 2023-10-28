@@ -4,6 +4,8 @@ English version: [en](./readme_en.md)
 
 [课程网站](https://cs50.harvard.edu/x/2022/)
 
+[CS50P](https://github.com/lng205/CS50P)
+
 本课程是面向零基础的CS入门课程。此前我已用C语言做过几个嵌入式开发项目，python也跟着[廖雪峰的博客](https://www.liaoxuefeng.com/wiki/1016959663602400)学了一半。
 
 本以为是复习，但课程内容给了我惊喜，C的部分很好的加深了我对这门语言的理解，后半段的Web应用更为我打开了新世界的大门，推荐。

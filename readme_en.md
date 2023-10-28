@@ -2,6 +2,8 @@
 
 [Course station](https://cs50.harvard.edu/x/2022/)
 
+[CS50P](https://github.com/lng205/CS50P)
+
 This is a course for CS beginners. I've completed several embedded projects with C before the course, also I've been learning python through half of [this blog](https://www.liaoxuefeng.com/wiki/1016959663602400).
 
 Thinking as a review, the course surprised me. The C part greatly deepened my understanding of the language. Moreover, the Web application part opened a new world for me. Recommended.

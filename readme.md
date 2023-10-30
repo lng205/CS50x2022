@@ -6,6 +6,8 @@ English version: [en](./readme_en.md)
 
 [CS50P](https://github.com/lng205/CS50P)
 
+[鸭鸭助手网页版](https://cs50.ai/chat)
+
 本课程是面向零基础的CS入门课程。此前我已用C语言做过几个嵌入式开发项目，python也跟着[廖雪峰的博客](https://www.liaoxuefeng.com/wiki/1016959663602400)学了一半。
 
 本以为是复习，但课程内容给了我惊喜，C的部分很好的加深了我对这门语言的理解，后半段的Web应用更为我打开了新世界的大门，推荐。
@@ -18,21 +20,21 @@ English version: [en](./readme_en.md)
 
 Scratch项目是课程的起点，但不看也不太影响后续学习，已有编程基础的同学可以也选择跳过。
 
-## [Week1](./Week1/readme.md)
+## [Week1](./Week1)
 
-## [Week2](./Week2/readme.md)
+## [Week2](./Week2)
 
-## [Week3](./Week3/readme.md)
+## [Week3](./Week3)
 
-## [Week4](./Week4/readme.md)
+## [Week4](./Week4)
 
-## [Week5](./Week5/readme.md)
+## [Week5](./Week5)
 
-## [Week6](./Week6/readme.md)
+## [Week6](./Week6)
 
-## [Week7](./Week7/readme.md)
+## [Week7](./Week7)
 
-## [Week8](./Week8/readme.md)
+## [Week8](./Week8)
 
 ## [Week9](./Week9/readme.md)
 

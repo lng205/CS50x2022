@@ -44,6 +44,8 @@ Scratch项目是课程的起点，但不看也不太影响后续学习，已有�
 
 上完课已经变成了linux的样子，不想再去学Windows命令行，且折腾半天WSL和Docker还是不太顺手。正好手里有个树莓派，打算开发一下。
 
+本项目仅供参考，请遵守[学术诚信](https://cs50.harvard.edu/x/2023/honesty/)。
+
 ## Gradebook
 
 ![p1](./images/p1.png)
